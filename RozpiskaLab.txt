@@ -1,0 +1,31 @@
+Lab1
+- Lab1a - Bramka XOR w VHDL wykorzystując operacje and not
+- Lab1b - Bramka XOR jako schemat blokowy w pliku .bdf
+- Lab1c - Trzywejściowa bramka XOR w VHDL wykorzystując operacje and not
+
+Lab2
+- Lab2a - Układ zadany przez prowadzącego w VHDL
+- Lab2b - Utworzenie symbolu zastępczego .bsf na podstawie układu Lab2a File > Create / Update > Create Symbol Files for Current File
+- Lab2c - Multiplekser 6x1 w VHDL, utworzenie na jego podstawie symbolu zastępczego .bsf
+	  with select dla układów kombinacyjnych
+
+Lab3
+- Lab3a - Dekoder wyświetlacza HEX
+- Lab3b - Sumator 5-bitowy na podstawie sumatora 1-bitowego wykorzystując schemat .bdf
+
+Lab4
+- Lab4a - 8-bitowy układ sprawdzający parzystość ciągu bitów
+- Lab4b - ALU dla 6 operacji arytmetycznych
+
+Lab5
+- Lab5a - Przerzutnik JK Realizacja zatrzasku
+- Lab5b - Układ zapamiętujący
+- Lab5c - Układ odliczający sekundy
+
+Lab6
+- Lab6a - Licznik 8-bitowy w dwóch kierunkach
+- Lab6b - Zegar HH:MM:SS
+
+Lab7
+- Lab7a - Automat stanów z załącznika nr 1 Wygenerowany diagram stanów Tools > Netlist Viewers > State Machine Viewer
+- Lab7c - 
