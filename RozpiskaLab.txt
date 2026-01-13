@@ -30,6 +30,9 @@ Lab7
 - Lab7a - Automat stanów z załącznika nr 1 Wygenerowany diagram stanów Tools > Netlist Viewers > State Machine Viewer
 - Lab7c - Automat stanów zadany przez prowadzącego Wygenerowany diagram stanów
 
+cd /intelFPGA/23.1.1/quartus/bin
+./quartus
+
 entity andor is
    port ( i1, i2, i3 : in bit;
           output : out bit
@@ -58,3 +61,4 @@ entity andor is
          Gate1 : AND2 port map (A => i1, B => i2, F1 => write);
          Gate2 : OR2  port map (write, i3, output);
     end struct;
+
